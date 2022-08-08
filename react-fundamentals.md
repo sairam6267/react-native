@@ -136,7 +136,7 @@ class Add extends Component{
   }
 }
 ```
-### <b>Hooks</b>
+## Hooks
 
 Hooks are used to mount,update and unmount the data. To store and manipulate data , the react provides states and side effects.
 * Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions.
@@ -156,7 +156,8 @@ function App(){
   )
 }
 ```
-### <b>Props</b>
+
+## Props
 
 Props are the properties which acts like javascript object and are mutable.props will be send as a parameter to the components, so these props are acessible inside and outside the components.
 
